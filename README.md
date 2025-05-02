@@ -9,7 +9,7 @@
 
 <!-- Hero Title -->
 <p align="center">
-  <a href="https://github.com/mohamedsobhy77"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=%2305982&center=true&vCenter=true&random=false&width=435&height=52&lines=Test+Automation+Engineer;Tech+Enthusiast;Learning+new+Skills" alt="Typing SVG" /></a></a>
+  <a href="https://github.com/mohamedsobhy77"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=%2305982&center=true&vCenter=true&random=false&width=435&height=52&lines=Software+Test+Engineer;Tech+Enthusiast;Learning+new+Skills" alt="Typing SVG" /></a></a>
 </p>
 
 
@@ -27,9 +27,9 @@
    
 - 👨‍💻 Learn more about my journey through my  <a href="#" target="_blank">` portfolio website`</a> or explore my professional background in my <a href="#" target="_blank">`resume `</a> Both showcase my expertise in testing and software quality.
 
-- 📫 Reach me at <a href="mohamedsobhyayesh@gmail.com" target="_blank">`mohamedsobhyayesh@gmail.com`</a>
+- 📫 Reach me at <a href="mailto:mohamedsobhyayesh@gmail.com">`mohamedsobhyayesh@gmail.com`</a>
   
-- 💪🏼 Fav Quote: "Testing leads to failure, and failure leads to understanding."
+- 💪🏼 Fav Quote: "Quality is never an accident; it is always the result of intelligent effort"
   
 - ⚡ Committed to continuous learning and adapting to stay at the forefront of the testing field.
 
@@ -60,6 +60,6 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/mohamedsobhyayesh/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/mohamed.sobhy77/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+
 
 </p>
