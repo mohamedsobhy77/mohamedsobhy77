@@ -12,10 +12,7 @@
   </ul>
 </div>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=05982F&center=true&vCenter=true&width=435&height=52&lines=Software+Test+Engineer;QA+Engineer;Automation+Enthusiast;Continuous+Learner" />
-</p>
+
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
