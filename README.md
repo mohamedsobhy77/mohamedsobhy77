@@ -38,7 +38,6 @@
 <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=mohamedsobhy77" />
   <img src="https://img.shields.io/github/followers/mohamedsobhy77?style=social" />
-  <img src="https://img.shields.io/github/stars/mohamedsobhy77" />
 </p>
 
 ---
