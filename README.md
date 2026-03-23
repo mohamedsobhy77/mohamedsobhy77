@@ -28,7 +28,6 @@
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
   <a href="https://www.java.com/en/"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="50" height="50"/></a>
   <a href="https://www.w3schools.com/cpp/"><img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" width="50" height="50"/></a>
-  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/></a>
   <a href="https://www.selenium.dev/"><img src="https://miro.medium.com/v2/resize:fit:1400/1*musVE9e4bgjTWeoRmc-P_w.png" alt="Selenium" width="50" height="50"/></a>
   <a href="https://appium.io/"><img src="https://github.com/Mochxd/Mochxd/blob/main/appium.1021x1024.png" alt="Appium" width="50" height="50"/></a>
   <a href="https://rest-assured.io/"><img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" alt="REST Assured" width="50" height="50"/></a>
@@ -42,5 +41,5 @@
 </p>
 <h2 align="left">📈 GitHub Stats:</h2>
 <p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Mochxd?cardType=octocat&theme=github-dark&preferLogin=false" alt="GitHub Streak Stats" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/mohamedsobhy77?cardType=octocat&theme=github-dark&preferLogin=false" alt="GitHub Streak Stats" />
 </p>
