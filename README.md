@@ -31,13 +31,9 @@
 - 👨‍💻 Learn more about my journey through my  
 👉 <a href="https://mohamedsobhy77.github.io/mohamed_sobhy_portfolio/"><b>Portfolio Website</b></a>
 
-- 🧪 Software Test Engineer (Manual + API + Automation)
 
 - 📫 <a href="mailto:mohamedsobhyayesh@gmail.com"><b>mohamedsobhyayesh@gmail.com</b></a>
 
-- 💪🏼 "Quality is never an accident; it is always the result of intelligent effort"
-
-- 🎯 Seeking opportunities in Software Testing & QA
 
 ---
 
