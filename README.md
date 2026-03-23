@@ -7,7 +7,6 @@
         <a href="https://mohamedsobhy77.github.io/mohamed_sobhy_portfolio/" style="text-decoration: none; color: inherit;">
           Mohamed Sobhy
         </a>
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
       </h1>
     </summary>
   </ul>
