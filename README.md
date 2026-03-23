@@ -10,18 +10,14 @@
 
 <h3 align="left">About Me:</h3>
 <ul>
-  <li>🔍 <strong>Passionate QA & Testing Automation Engineer</strong> with experience in Agile methodologies and a focus on delivering high-quality software solutions.</li>
-  <li>🎓 <strong>Education:</strong> B. Sc in Computer Science, Faculty of Computers and Artificial Intelligence</li>
-  <li>📋 <strong>Certifications:</strong> ISTQB® Certified Tester (CTFL)</li>
-  <li>🌐 <strong>Technical Skills:</strong> Proficient in test automation tools and frameworks, including Selenium, Appium, and REST Assured, and experienced in manual and automated testing for mobile and web applications.</li>
-  <li>🔧 <strong>Development Skills:</strong> Skilled in Java, C++, Python, and various scripting tools for effective QA automation.</li>
+  <li> <strong>Passionate QA & Testing Automation Engineer</strong> with experience in Agile methodologies and a focus on delivering high-quality software solutions.</li>
+  <li> <strong>Education:</strong> B. Sc in Computer Science, Faculty of Computers and Artificial Intelligence</li>
+  <li> <strong>Certifications:</strong> ISTQB® Certified Tester (CTFL)</li>
+  <li> <strong>Technical Skills:</strong> Proficient in test automation tools and frameworks, including Selenium, Appium, and REST Assured, and experienced in manual and automated testing for mobile and web applications.</li>
+  <li> <strong>Development Skills:</strong> Skilled in Java, C++, Python, and various scripting tools for effective QA automation.</li>
 </ul>
 
-<h3 align="left">Connect with Me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohamedsobhyayesh/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50" width="50" /></a>
-  <a href="mailto:mohamedsobhyayesh@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="50" width="50" /></a>
-  </p>
+
 
 <h3 align="left">Technologies and Tools:</h3>
 <p>
@@ -39,7 +35,11 @@
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="SQL Server" width="50" height="50"/></a>
   <a href="https://www.jetbrains.com/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" width="50" height="50"/></a>
 </p>
-<h2 align="left">📈 GitHub Stats:</h2>
-<p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/mohamedsobhy77?cardType=octocat&theme=github-dark&preferLogin=false" alt="GitHub Streak Stats" />
-</p>
+<h3 align="left">Connect with Me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohamedsobhyayesh/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50" width="50" /></a>
+  <a href="mailto:mohamedsobhyayesh@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="50" width="50" /></a>
+  </p>
+ 
+
+
