@@ -54,8 +54,8 @@
 </p>
 
 <p align="center">
-  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=react" />
-  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=react" />
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamedsobhy77&theme=react" />
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamedsobhy77&theme=react" />
 </p>
 
 <p align="center">
@@ -64,11 +64,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=5&margin-h=5" />
-</p>
 
 
 ## 🔗 Connect with Me
